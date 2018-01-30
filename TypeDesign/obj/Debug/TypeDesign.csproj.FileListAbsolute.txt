@@ -1,0 +1,1 @@
+D:\【项目】\其他\记一次类型设计的求索历程\TypeDesign\TypeDesign\obj\Debug\TypeDesign.csprojResolveAssemblyReference.cache
