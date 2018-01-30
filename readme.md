@@ -213,3 +213,18 @@ public enum EngineType
 }
 ```
 通过扩展方法，我们也可以访问这个枚举类的属性值。
+
+**程序代码**：<a href="https://github.com/daivven/TypeDesign">https://github.com/daivven/TypeDesign</a>
+
+
+
+<div style="background: #f0f8ff; padding: 10px; border: 2px dashed #990d0d; font-family: 微软雅黑;">
+&nbsp;作者：<a href="http://www.cnblogs.com/yayazi/">阿子</a>
+<br>
+&nbsp;博客地址：<a href="http://www.cnblogs.com/yayazi/">http://www.cnblogs.com/yayazi/</a>
+<br>
+&nbsp;本文地址：<a href="http://www.cnblogs.com/yayazi/p/8383485.html">http://www.cnblogs.com/yayazi/p/8383485.html</a>
+<br>
+&nbsp;声明：本博客原创文字允许转载，转载时必须保留此段声明，且在文章页面明显位置给出原文链接。
+
+</div>
